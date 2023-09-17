@@ -2,8 +2,8 @@
 
 ### interests
 -Baseball
--Video Games
--Machine Learning
+*Video Games
++Machine Learning
 
 ### Technical Background
 
