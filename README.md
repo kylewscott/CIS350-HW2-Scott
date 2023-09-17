@@ -1,12 +1,11 @@
 # Kyle Scott
 
 ### interests
--Baseball
-*Video Games
-+Machine Learning
+- Baseball
+- Video Games
+- Machine Learning
 
 ### Technical Background
-
     I have been programming since highschool which inspired me
     to go into computer science and continue programming in
     college. I enjoy learning new technologies and working 
