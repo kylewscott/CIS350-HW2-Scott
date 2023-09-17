@@ -1,6 +1,6 @@
 # Kyle Scott
 
-### interests
+### Interests
 - Baseball
 - Video Games
 - Machine Learning
